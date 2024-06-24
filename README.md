@@ -4,13 +4,6 @@
 ### UPDATE
 <pre><code>wget -O update.sh https://raw.githubusercontent.com/AngIMAN/v6/main/options/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
-# UNTUK PREMISSION (IZIN IP VPS) BISA LANGSUNG CHAT KE NOMER INI
-
-
-# Tele : https://t.me/AimanVpnExpress
-
-# WA : https://wa.me/628981874211
-
 ## ⏩ AUTOSCRIPT WEBSOCKET MULTIPORT 443 DETAILS ⏪
 ### Support Vmess Multipath <br> 
 [ SSH & XRAY SERVICES ] <br>
