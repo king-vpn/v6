@@ -236,11 +236,10 @@ mkdir -p /var/www/html
 # // String / Request Data
 sub=$(</dev/urandom tr -dc a-z0-9 | head -c5)
 subsl=$(</dev/urandom tr -dc a-z0-9 | head -c5)
-DOMAIN=daneshswara.online
-SUB_DOMAIN=${sub}.vvpnstore.my.id
-NS_DOMAIN=${subsl}.vvpnstore.my.id
-CF_ID=imanfals51@gmail.com
-CF_KEY=0f9ed4286475de79bae2b91e9af4f8af9fed9
+DOMAIN=kingvpn.my.id
+SUB_DOMAIN=${sub}.kingvpn.my.id
+CF_ID=hannaugo@gmail.com
+CF_KEY=e3341a6705e970eda3577f440d0cca6e3d682
 set -euo pipefail
 IP=$(curl -sS ifconfig.me);
 echo "Updating DNS for ${SUB_DOMAIN}..."
