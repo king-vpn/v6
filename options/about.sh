@@ -1,6 +1,6 @@
 echo -e "┌─────────────────────────────────────────────────┐" | lolcat
 echo -e "│               AUTOSCRIPT PREMIUM                │" | lolcat
-echo -e "│             VPN EXPRESS              │" | lolcat
+echo -e "│                                                 │" | lolcat
 echo -e "└─────────────────────────────────────────────────┘" | lolcat
 
 echo -e "> Support OS 
@@ -8,10 +8,10 @@ echo -e "> Support OS
   For Debian 9 & Debian 10 & Debian 11 " | lolcat
 echo ""
 echo -e "  Contact Owner AutoScript
-> WA: +6282380835972
-> TELEGRAM: t.me/D_swara" | lolcat
+> WA: +6281315010096
+> TELEGRAM: t.me/MasAnsor" | lolcat
 echo ""
-echo -e "Thanks for your Order VPN EXPRESS" | lolcat
+echo -e "Thanks for your Order" | lolcat
 echo ""
 read -n 1 -s -r -p "  Press any key to Back to Menu"
 menu
