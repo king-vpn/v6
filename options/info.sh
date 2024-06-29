@@ -136,7 +136,7 @@ echo -e "┌──────────────────────�
 echo -e "│           AUTOSCRIPT INFORMATION         │" | lolcat       
 echo -e "└──────────────────────────────────────────┘" | lolcat
 echo -e "\033[1;96m  Owner        : MASANSOR \e[0m"
-echo -e "\033[1;96m  Contact WA   : 08981874211 \e[0m"
+echo -e "\033[1;96m  Contact WA   : 081315010096 \e[0m"
 echo -e "\033[1;96m  Telegram     : t.me/MasAnsor \e[0m"
 #echo -e "\033[1;96m  Channel     : https://t.me/aiyavpnstore \e[0m"
 echo -e "\033[1;96m  Type Script  : Multiport V3 \e[0m"
