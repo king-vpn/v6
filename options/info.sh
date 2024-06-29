@@ -135,12 +135,11 @@ echo -e "\033[1;91m  DATE&TIME     : $( date -d "0 days" +"%d-%m-%Y | %X" )\e[0m
 echo -e "┌──────────────────────────────────────────┐" | lolcat
 echo -e "│           AUTOSCRIPT INFORMATION         │" | lolcat       
 echo -e "└──────────────────────────────────────────┘" | lolcat
-echo -e "\033[1;96m  Owner        : Daneshswara \e[0m"
+echo -e "\033[1;96m  Owner        : MASANSOR \e[0m"
 echo -e "\033[1;96m  Contact WA   : 08981874211 \e[0m"
-echo -e "\033[1;96m  Telegram     : t.me/AimanVpnExpress \e[0m"
-#echo -e "\033[1;96m  Channel     : https://t.me/aivpn3 \e[0m"
+echo -e "\033[1;96m  Telegram     : t.me/MasAnsor \e[0m"
+#echo -e "\033[1;96m  Channel     : https://t.me/aiyavpnstore \e[0m"
 echo -e "\033[1;96m  Type Script  : Multiport V3 \e[0m"
-echo -e "\033[1;96m  Version SC   : $(cat /opt/.ver) \e[0m"
 echo -e "\033[1;96m  Client Name  : $Name \e[0m"
 if [ $Exp \< 1000 ];
 then
